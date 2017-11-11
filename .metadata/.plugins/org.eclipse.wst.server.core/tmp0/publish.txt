@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Nov 11 12:01:44 CST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\qhdssc\\Documents\\learn\\java\\myspring\\WebContent\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar=WEB-INF/lib/spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\qhdssc\\Documents\\learn\\java\\myspring\\WebContent\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-4.3.9.RELEASE-sources.jar

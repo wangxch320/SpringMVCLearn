@@ -1,0 +1,5 @@
+package org.crazyit.app.service;
+
+public class PersonService {
+
+}
